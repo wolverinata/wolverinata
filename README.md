@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anne.
+- 👀 I’m interested in data science especially applied to the energy sector.
+- 🌱 I’m currently learning python.
